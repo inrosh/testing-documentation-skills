@@ -1,6 +1,6 @@
 # testing-documentation-skills
  
- >>*Testing online store for training skills to create test documentation*
+ >**Testing online store for training skills to create test documentation**
  
  1. [Functional specification] (https://docs.google.com/document/d/1M_3xgaC-rw2WtoYYmUu043HhHmHa1MMt/edit?usp=sharing&ouid=105399278281490368423&rtpof=true&sd=true).
  2. [User stories] (https://docs.google.com/document/d/1b9vgCVT8uNkfoXY0iVJbGfSrTdv_06a_/edit?usp=sharing&ouid=105399278281490368423&rtpof=true&sd=true)
